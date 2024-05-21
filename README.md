@@ -1,0 +1,2 @@
+# Ocuultify
+astrology is prediction 
