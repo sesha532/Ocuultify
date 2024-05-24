@@ -27,3 +27,16 @@ Purva Bhadrapada
 Uttara Bhadrapada
 Revati
 Each nakshatra has four padas 
+There are 12 signs 
+Aries
+Taurus 
+Gemini 
+Cancer 
+Leo 
+Virgo 
+Libra 
+Scorpio 
+Sagittarius 
+Capricorn 
+Aquarius
+Pisces 
